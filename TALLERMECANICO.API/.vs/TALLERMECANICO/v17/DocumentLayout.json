@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\models\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\tallercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\controllers\\tallercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\repuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\controllers\\repuestoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\models\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\models\\turnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\models\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\models\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|c:\\users\\mario\\source\\repos\\tallermecanico\\tallermecanico\\models\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6FACCF-6594-4D26-8E04-1D55A833DED4}|TALLERMECANICO\\TALLERMECANICO.csproj|solutionrelative:tallermecanico\\models\\repuestos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Taller.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Models\\Taller.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Taller.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Models\\Taller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:24:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TallerController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\TallerController.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Controllers\\TallerController.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\TallerController.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Controllers\\TallerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:24:03.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:21:44.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Turnos.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Turnos.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Models\\Turnos.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Turnos.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Models\\Turnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:21:07.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Servicios.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Models\\Servicios.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Servicios.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Models\\Servicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:17:59.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:17:55.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repuestos.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Repuestos.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Models\\Repuestos.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Models\\Repuestos.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Models\\Repuestos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:15:32.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepuestosController.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\RepuestosController.cs",
+              "RelativeDocumentMoniker": "TALLERMECANICO\\Controllers\\RepuestosController.cs",
+              "ToolTip": "C:\\Users\\Mario\\source\\repos\\TALLERMECANICO\\TALLERMECANICO\\Controllers\\RepuestosController.cs",
+              "RelativeToolTip": "TALLERMECANICO\\Controllers\\RepuestosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:14:09.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
