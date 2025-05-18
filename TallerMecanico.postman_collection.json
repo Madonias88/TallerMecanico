@@ -1,0 +1,171 @@
+{
+	"info": {
+		"_postman_id": "d072ba9e-936e-431a-a59d-9ed407d6fb42",
+		"name": "TallerMecanico",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43921941"
+	},
+	"item": [
+		{
+			"name": "https://localhost:7133/api/Clientes",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7133/api/Vehiculos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7133",
+					"path": [
+						"api",
+						"Vehiculos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7133/api/Vehiculos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7133/api/Servicios",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7133",
+					"path": [
+						"api",
+						"Servicios"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7133/api/Servicios",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7133/api/Servicios",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7133",
+					"path": [
+						"api",
+						"Servicios"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7133/api/Turnos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7133/api/Turnos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7133",
+					"path": [
+						"api",
+						"Turnos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7133/api/Mecanicos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7133/api/Facturas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7133",
+					"path": [
+						"api",
+						"Facturas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7133/api/Facturas",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7133/api/Facturas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7133",
+					"path": [
+						"api",
+						"Facturas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:7133/api/Repuestos",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7133/api/Repuestos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7133",
+					"path": [
+						"api",
+						"Repuestos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
